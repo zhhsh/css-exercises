@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.btn, .no-btn {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
+
+.no-btn {
+    background-color: yellow;
+}
